@@ -1,5 +1,7 @@
 package bitmanipulation;
-
+/*
+*Given an integer array in which every element occurs even number of time except one number which occurs odd number of time. Find the number which occurs odd number of time.
+*/
 public class EvenOddOccurance {
 
 	public static void main(String[] args) {
