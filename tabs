@@ -1,0 +1,7 @@
+<div class="container">
+            <ul class="nav nav-tabs nav-justified">
+                <div class="col-xs-4" style="padding-right:2px ; border-right:1px solid gainsboro; text-align: center"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></div>
+                <div class="col-xs-4" style="padding-right:2px ; border-right:1px solid gainsboro; text-align: center"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></div>
+                <div class="col-xs-4" style="text-align: center"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></div>
+            </ul>
+        </div>
